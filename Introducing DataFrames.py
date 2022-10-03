@@ -13,7 +13,7 @@ print(homelessness.shape)
 # Print a description of homelessness
 print(homelessness.describe())
 
-#Parts of a DataFrame 
+#Parts of a DataFrame  
 
 # Import pandas using the alias pd
 import pandas as pd
