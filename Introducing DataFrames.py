@@ -8,7 +8,7 @@ print(homelessness.head())
 print(homelessness.info())
  
 # Print the shape of homelessness 
-print(homelessness.shape)
+print(homelessness.shape) 
 
 # Print a description of homelessness
 print(homelessness.describe())
