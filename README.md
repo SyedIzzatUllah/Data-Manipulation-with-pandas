@@ -1,2 +1,2 @@
 # Data-Manipulation-with-pandas
-Data Manipulation with pandas and everything 
+Data Manipulation with pandas and everything related about 
