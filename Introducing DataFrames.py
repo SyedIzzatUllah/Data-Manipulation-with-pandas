@@ -1,6 +1,6 @@
 #DataFrames
 #Introducing DataFrames
-#Inspecting a DataFrame
+#Inspecting a DataFrame 
 # Print the head of the homelessness data
 print(homelessness.head())  
 
