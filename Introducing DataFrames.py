@@ -30,7 +30,7 @@ print(homelessness.index)
 #Sorting and subsetting 
 
 # Sort homelessness by individual
-homelessness_ind = homelessness.sort_values('individuals')
+homelessness_ind = homelessness.sort_values('individuals') 
 
 # Sort homelessness by descending family members
 homelessness_fam = homelessness.sort_values('family_members',ascending=False)
