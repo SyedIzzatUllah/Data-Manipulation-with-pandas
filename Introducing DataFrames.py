@@ -2,7 +2,7 @@
 #Introducing DataFrames
 #Inspecting a DataFrame 
 # Print the head of the homelessness data
-print(homelessness.head())   
+print(homelessness.head())    
 
 # Print information about homelessness
 print(homelessness.info( ))  
