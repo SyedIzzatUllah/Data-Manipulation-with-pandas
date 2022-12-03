@@ -1,4 +1,4 @@
-# Data-Manipulation-with-pandas- DC 
+# Data-Manipulation-with-pandas- Data 
 Data Manipulation with pandas and everything related about Pandas library in Python.
 
 # Reference: 
