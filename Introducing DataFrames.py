@@ -24,7 +24,7 @@ print(homelessness.values)
 # Print the column  names of homelessness
 print(homelessness.columns)
 
-# Print the row index of homelessness
+#  Print the row index of homelessness
 print(homelessness.index)
 
 #Sorting and subsetting 
