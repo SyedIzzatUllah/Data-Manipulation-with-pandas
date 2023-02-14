@@ -27,7 +27,7 @@ print(homelessness.columns)
 #  Print the row index of homelessness
 print(homelessness.index) 
 
-#Sorting and subsetting 
+#Sorting and subsetting
 
 # Sort homelessness by individual
 homelessness_ind = homelessness.sort_values('individuals') 
