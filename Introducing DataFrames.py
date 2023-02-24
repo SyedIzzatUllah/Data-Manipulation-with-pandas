@@ -11,7 +11,7 @@ print(homelessness.info( ))
 print(homelessness.shape)   
 
 #  Print a description of  homelessness
-print(homelessness.describe( ))  
+print(homelessness.describe( ))
 
 #Parts of a DataFrame in the  set    
 
