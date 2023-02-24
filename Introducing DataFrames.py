@@ -16,7 +16,7 @@ print(homelessness.describe( ))
 #Parts of a DataFrame in the  set    
 
 # Import pandas using the alias pd  
-import pandas as pd  
+import pandas as pd 
 
 # Print a 2D NumPy array of the values in homelessness.
 print(homelessness.values) 
