@@ -4,7 +4,7 @@
 # Print the head of the homelessness data
 print(homelessness.head( ))    
 
-#  Print information about homelessness
+# Print information about homelessness
 print(homelessness.info( ))  
  
 # Print the shape  of  homelessness  
