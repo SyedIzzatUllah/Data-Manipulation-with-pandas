@@ -19,10 +19,10 @@ print(homelessness.describe( ))
 import pandas as pd
 
 # Print a 2D NumPy array of the values in homelessness.
-print(homelessness.values) 
+print(homelessness.values)
 
 # Print the column  names of homelessness
-print(homelessness.columns)
+print(homelessness.columns) 
 
 #  Print the row index of homelessness
 print(homelessness.index) 
