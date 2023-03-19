@@ -2,7 +2,7 @@
 #Introducing DataFrames  
 #Inspecting a DataFrame in the set    
 # Print the head of the homelessness data
-print(homelessness.head( ))    
+print(homelessness.head( )) 
 
 # Print information about homelessness
 print(homelessness.info( ))  
@@ -13,7 +13,7 @@ print(homelessness.shape)
 #  Print a description of  homelessness
 print(homelessness.describe( ))
 
-#Parts of a DataFrame in the  set    
+#Parts of a DataFrame in the  set
 
 # Import pandas using the alias pd  
 import pandas as pd
